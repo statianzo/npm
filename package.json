@@ -1,6 +1,6 @@
 {
-  "version": "5.1.0",
-  "name": "npm",
+  "version": "5.1.0-canary.1",
+  "name": "npmc",
   "description": "a package manager for JavaScript",
   "keywords": [
     "install",
